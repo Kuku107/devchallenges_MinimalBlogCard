@@ -1,0 +1,55 @@
+* {
+    background-color: #FAFAF9;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 164px;
+}
+
+.card-item {
+    font-family: 'Sora', sans-serif;
+    margin: auto;
+    padding: 16px 16px 20px;
+    width: 368px;
+    box-shadow: 8px 8px 20px 0 rgba(85, 85, 85, 0.08);
+    border-radius: 10px;
+}
+
+.card-item img {
+    border-radius: 7px;
+}
+
+.card-tag {
+    font-size: 0.625rem;
+    font-weight: bold;
+    background-color: #F2EAFD;
+    color: #7C19EE;
+    padding: 6px 16px;
+    border-radius: 10px;
+    margin: 16px 0;
+    display: inline-block;
+}
+
+.card-title {
+    margin-bottom: 6px;
+    font-size: 1.125rem;
+    color: #20293A;
+}
+
+.card-content {
+    font-size: 0.875rem;
+    color: #394150;
+}
+
+.card-author {
+    font-size: 0.75rem;
+    color: #394150;
+}
+
+hr {
+    margin: 20px 0;
+}
+
